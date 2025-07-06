@@ -167,7 +167,7 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
 </div>
 
 ### 🔥 Current Position
-**AI Intern** at [Fireraven](https://fireraven.io) -- Montréal, Canada (Current)
+**AI Intern** at [Fireraven](https://fireraven.ai) -- Montréal, Canada (Current)
 - 🔒 Design and development of security and compliance features for LLM-based agents
 - 🛠️ Debugging, troubleshooting, and optimizing code for platform reliability
 - 💾 Integrating and managing SQL databases (PostgreSQL) with cloud tools
