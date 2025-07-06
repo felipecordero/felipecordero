@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FF6B35&center=true&vCenter=true&width=500&height=60&lines=Structural+Engineer;Software+Developer;AI/ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FF6B35&center=true&vCenter=true&width=500&height=40&lines=Structural+Engineer;Software+Developer;AI/ML+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 # 👨‍💻 Felipe Cordero
