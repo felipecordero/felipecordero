@@ -1,8 +1,9 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Engineer;Software+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1500&color=FF6B35&center=true&vCenter=true&width=700&height=120&lines=Structural+Engineer;Software+Developer;AI/ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-# 👨‍💻 Felipe Cordero Osorio
+# 👨‍💻 Felipe Cordero
 
 <div align="center">
   
@@ -11,6 +12,12 @@
   [![Email](https://img.shields.io/badge/Email-mail@felipecordero.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@felipecordero.com)
   [![Blog](https://img.shields.io/badge/Blog-felipecordero.com/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://felipecordero.com/blog)
   
+</div>
+
+<div align="center">
+  <!-- <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-00A0E4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" /> -->
+  <img src="https://img.shields.io/badge/Location-Montréal,_Canada-0077B5?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" />
+  <!-- <img src="https://img.shields.io/badge/Open_to_Work-Yes-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" /> -->
 </div>
 
 <div align="center">
@@ -37,9 +44,10 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
 <div align="center">
   
   ![Experience](https://img.shields.io/badge/Experience-14%2B_years-FF6B35?style=for-the-badge&logo=clock&logoColor=white)
-  ![Location](https://img.shields.io/badge/Location-Montréal,_Canada-0077B5?style=for-the-badge&logo=map-marker&logoColor=white)
   ![Education](https://img.shields.io/badge/Education-AI/ML_Student-00A0E4?style=for-the-badge&logo=graduation-cap&logoColor=white)
   ![Scholarship](https://img.shields.io/badge/Scholarship-Academic_Excellence-FFD700?style=for-the-badge&logo=award&logoColor=black)
+
+  <!-- ![Location](https://img.shields.io/badge/Location-Montréal,_Canada-0077B5?style=for-the-badge&logo=map-marker&logoColor=white) -->
   
 </div>
 
@@ -307,34 +315,29 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecordero&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<!-- ### 💻 Most Used Languages
+### 💻 Programming Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecordero&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div> -->
-
-### 📊 Detailed Language Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecordero&theme=radical&hide_border=true&layout=donut&langs_count=8" alt="Detailed Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecordero&theme=radical&hide_border=true&layout=donut&langs_count=6&exclude_repo=careercanvas" alt="Programming Languages" />
 </div>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipecordero&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipecordero&theme=radical&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA&column=6" alt="GitHub Trophies" />
 </div>
 
-<!-- ### 📈 Contribution Graph
+### 📈 Activity Insights
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipecordero&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
-</div> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipecordero&theme=radical&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&bg_color=0d1117&color=ff6b35&line=00a0e4&point=ffd700" alt="Contribution Graph" />
+</div>
 
-### 🎯 Profile Summary
+### 🎯 Profile Overview
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecordero&theme=radical" alt="Profile Summary" />
 </div>
 
-### 📊 Repository Stats
+### 📊 Repository Analytics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipecordero&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipecordero&theme=radical&exclude=html,css,scss" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipecordero&theme=radical" alt="Most Commit Language" />
 </div>
 
