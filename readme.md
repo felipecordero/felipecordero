@@ -322,7 +322,7 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
 
 ### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipecordero&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipecordero&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6&rank=S,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 </div>
 
 <!-- ### 📈 Activity Insights
