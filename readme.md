@@ -131,7 +131,7 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-Expert_User_2004-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 </div>
 
