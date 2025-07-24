@@ -257,7 +257,7 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
 
 ## 🎨 Interests & Hobbies
 
-- 🎾 Tennis | 🥁 Drumming | 🍳 Cooking | 📸 Photography | ✈️ Traveling | 📖 Reading  
+- ♟️ **Chess**, 🎾 **Tennis**, 🚴 **Cycling**, 🏊‍♂️ **Swimming**<br>👨‍🍳 **Cooking**, 🥁 **Drumming**, 📸 **Photography**<br>✈️ **Traveling**, 📚 **Reading**
 
 ## 🌐 Languages
 
