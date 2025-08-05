@@ -142,6 +142,7 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   ![ETABS](https://img.shields.io/badge/ETABS-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
   ![SAP2000](https://img.shields.io/badge/SAP2000-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
   ![OpenSees](https://img.shields.io/badge/OpenSees-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
   ![BIM](https://img.shields.io/badge/BIM-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
   ![CAD](https://img.shields.io/badge/CAD-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
   
