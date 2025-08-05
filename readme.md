@@ -75,6 +75,8 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   
 </div>
 
+**Programming Languages**: Python, JavaScript, TypeScript
+
 ### 🌐 Web Development
 <div align="center">
   
@@ -86,6 +88,8 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
   
 </div>
+
+**Web Development**: HTML5, CSS3, React, Next.js, FastAPI, Three.js
 
 ### 📊 Data Science & Analytics
 <div align="center">
@@ -100,6 +104,8 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   
 </div>
 
+**Data Science & Analytics**: NumPy, Pandas, GeoPandas, Plotly, Matplotlib, Streamlit, Plotly Dash
+
 ### 🤖 AI/ML Frameworks
 <div align="center">
   
@@ -109,6 +115,8 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
   
 </div>
+
+**AI/ML Frameworks**: TensorFlow, PyTorch, Scikit-learn, OpenCV
 
 ### 🗄️ Databases & Cloud
 <div align="center">
@@ -121,6 +129,8 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   
 </div>
+
+**Databases & Cloud**: PostgreSQL, MySQL, MongoDB, Supabase, Firebase, Google Cloud
 
 ### 🛠️ Development Tools
 <div align="center">
@@ -135,6 +145,8 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   
 </div>
 
+**Development Tools**: Git, GitHub, GitLab, VS Code, Docker, Jupyter, Linux
+
 ### 🏗️ Engineering Software
 <div align="center">
   
@@ -147,6 +159,8 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   ![CAD](https://img.shields.io/badge/CAD-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
   
 </div>
+
+**Engineering Software**: QGIS, ETABS, SAP2000, OpenSees, MATLAB, BIM, CAD
 
 ### Professional Strengths
 - 🔍 **Data Analysis & Visualization** - Transforming complex data into actionable insights
