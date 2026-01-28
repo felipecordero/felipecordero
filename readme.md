@@ -374,6 +374,11 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
   [![Website](https://img.shields.io/badge/Website-Visit_Now-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felipecordero.com)
   [![Blog](https://img.shields.io/badge/Blog-Read_More-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://felipecordero.com/blog)
   
+  <!-- Calendly inline widget begin -->
+  <div class="calendly-inline-widget" data-url="https://calendly.com/mail-felipecordero/30min" style="min-width:320px;height:700px;"></div>
+  <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+  <!-- Calendly inline widget end -->
+  
   ---
   
   *"Turning ideas into impactful solutions—one line of code at a time!"* 🚀
