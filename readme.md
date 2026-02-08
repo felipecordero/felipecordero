@@ -5,14 +5,12 @@
 
 # 👨‍💻 Felipe Cordero
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Cordero_Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-cordero-osorio)
-  [![Website](https://img.shields.io/badge/Website-felipecordero.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felipecordero.com)
-  [![Email](https://img.shields.io/badge/Email-mail@felipecordero.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@felipecordero.com)
-  [![Blog](https://img.shields.io/badge/Blog-felipecordero.com/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://felipecordero.com/blog)
-  
-</div>
+### 🚀 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-cordero-osorio)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@felipecordero.com)
+[![Website](https://img.shields.io/badge/Website-Visit_Now-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felipecordero.com)
+[![Blog](https://img.shields.io/badge/Blog-Read_More-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://felipecordero.com/blog)
+[![Calendly](https://img.shields.io/badge/Book_a_meeting-Calendly-0069ff?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/mail-felipecordero/30min)
 
 <div align="center">
   <!-- <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-00A0E4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" /> -->
@@ -316,73 +314,22 @@ I'm a passionate **Engineer**, **Software Developer**, and **AI enthusiast** bas
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Activity-FF6B35?style=for-the-badge&logo=github&logoColor=white)
-  
-</div>
+### 🔥 Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecordero&theme=radical" width="400" alt="Streak" />
 
-### 📈 Activity Overview
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipecordero&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+### 🎯 Profile details
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecordero&theme=radical)
 
-### 🔥 Contribution Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecordero&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+### 📊 Repos by language
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipecordero&theme=radical&exclude=html,css,scss)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipecordero&theme=radical)
 
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecordero&theme=radical&hide_border=true&layout=donut&langs_count=6&exclude_repo=careercanvas" alt="Programming Languages" />
-</div>
-
-### 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipecordero&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6&rank=S,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
-</div>
-
-<!-- ### 📈 Activity Insights
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipecordero&theme=radical&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&bg_color=0d1117&color=ff6b35&line=00a0e4&point=ffd700" alt="Contribution Graph" />
-</div> -->
-
-### 🎯 Profile Overview
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecordero&theme=radical" alt="Profile Summary" />
-</div>
-
-### 📊 Repository Analytics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipecordero&theme=radical&exclude=html,css,scss" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipecordero&theme=radical" alt="Most Commit Language" />
-</div>
-
-### 👀 Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=felipecordero&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+### 👀 Profile views
+![Profile Views](https://komarev.com/ghpvc/?username=felipecordero&style=flat-square&color=blue)
 
 ---
 
 <div align="center">
-  
-  ### 🚀 Let's Connect!
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-cordero-osorio)
-  [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@felipecordero.com)
-  [![Website](https://img.shields.io/badge/Website-Visit_Now-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felipecordero.com)
-  [![Blog](https://img.shields.io/badge/Blog-Read_More-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://felipecordero.com/blog)
-  
-  <!-- Calendly inline widget begin -->
-  <div class="calendly-inline-widget" data-url="https://calendly.com/mail-felipecordero/30min" style="min-width:320px;height:700px;"></div>
-  <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-  <!-- Calendly inline widget end -->
-  
-  ---
-  
   *"Turning ideas into impactful solutions—one line of code at a time!"* 🚀
-  
-  ![Profile Views](https://img.shields.io/badge/Thanks_for_visiting!-⭐-FFD700?style=for-the-badge&logo=star&logoColor=black)
-  
+  ![Thanks](https://img.shields.io/badge/Thanks_for_visiting!-⭐-FFD700?style=for-the-badge&logo=star&logoColor=black)
 </div>
