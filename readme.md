@@ -354,5 +354,5 @@ Technical expertise spanning software development, AI/ML, and engineering techno
 
 <div align="center">
   *"Turning ideas into impactful solutions—one line of code at a time!"* 🚀
-  ![Thanks](https://img.shields.io/badge/Thanks_for_visiting!-⭐-FFD700?style=for-the-badge&logo=star&logoColor=black)
+  ![Thanks](https://img.shields.io/badge/Thanks_for_visiting-Star-FFD700?style=for-the-badge&logo=star&logoColor=black)
 </div>
