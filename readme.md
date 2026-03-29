@@ -218,7 +218,7 @@ Technical expertise spanning **product-oriented delivery**, software development
 - Design and implement guardrails, policies, and runtime controls for LLM agents—APIs and customer-facing or internal tooling (Python/FastAPI, **NestJS**, React/Next.js, TypeScript, PostgreSQL)
 - Translate regulatory and risk requirements into shippable product behavior, audit trails, and operational workflows; facilitate delivery when blockers appear (re-scoping, phased releases)
 - Contribute to documentation (behavioral specs, release notes) for traceable, supportable launches; track quality and operational signals to inform backlog ordering
-- Apply GenAI/LLM patterns in production; participate in Agile ceremonies with globally distributed teams (Linux/Unix, Docker, GCP)
+- Apply GenAI/LLM patterns in production; participate in Agile events with globally distributed teams (Linux/Unix, Docker, GCP)
 
 ### 💼 Previous Experience
 
