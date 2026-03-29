@@ -1,6 +1,9 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1500&color=FF6B35&center=true&vCenter=true&width=560&height=45&lines=Full-Stack+AI+Product+Engineer;AI+Security+%26+Compliance+for+LLM+Agents;Structural+Engineering+to+Software+to+AI" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fraunces&weight=700&size=24&pause=2200&color=FF6B35&center=true&vCenter=true&width=640&height=52&lines=Full-Stack+AI+Product+Engineer;LLM+Guardrails+%7C+Security+%7C+Compliance+%7C+Auditing;Structures+%7C+Code+%7C+AI+%7C+14%2B+Years"
+    alt="Rotating headline: Full-Stack AI Product Engineer; LLM guardrails, security, compliance, auditing; career path from structures to AI"
+  />
 </div>
 
 # 👨‍💻 Felipe Cordero
@@ -32,9 +35,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  
-  > *"Bridging product vision with AI systems engineering—security, compliance, and shipped software for LLM agents."*
-  
+  <p><em>Ideas aren’t the hard part—traceable behavior is. I ship full-stack AI that turns policy and risk into guardrails, APIs, and audit-ready controls for LLM agents in production.</em></p>
 </div>
 
 I bridge **structural engineering**, **software**, and **AI security**. At **Fireraven** I work as a **full-stack AI product engineer** on guardrails, compliance, and secure deployment of LLM agents for enterprises: **product-scoped work** with PM, security, compliance, and customers—not a generic backend-only role. **6+ years** of cross-functional, Agile-informed delivery: **user stories**, **acceptance criteria**, backlog alignment, sprint goals, and turning regulatory and risk needs into **production features**. Background spans BIM and large-project delivery, construction-tech products, and R&D that cut engineering time by **75%** (Sirve) and design time by **40%** on critical paths (Tensacon).
@@ -353,7 +354,7 @@ Technical expertise spanning **product-oriented delivery**, software development
 ---
 
 <div align="center">
-  *"Bridging product vision with AI systems engineering—secure, compliant LLM agents in production."* 🚀
+  <p><em>Same discipline whether it’s load paths or agent policies: constraints first, then software that holds up under scrutiny.</em> 🚀</p>
 </div>
 
 <br />
