@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fraunces&weight=700&size=24&pause=2200&color=FF6B35&center=true&vCenter=true&width=640&height=52&lines=Full-Stack+AI+Product+Engineer;LLM+Guardrails+%7C+Security+%7C+Compliance+%7C+Auditing;Structures+%7C+Code+%7C+AI+%7C+14%2B+Years"
+    src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=24&pause=2200&color=FF6B35&center=true&vCenter=true&width=640&height=52&lines=Full-Stack+AI+Product+Engineer;LLM+Guardrails+%7C+Security+%7C+Compliance+%7C+Auditing;Structures+%7C+Code+%7C+AI+%7C+14%2B+Years"
     alt="Rotating headline: Full-Stack AI Product Engineer; LLM guardrails, security, compliance, auditing; career path from structures to AI"
   />
 </div>
