@@ -1,9 +1,11 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1500&color=FF6B35&center=true&vCenter=true&width=500&height=40&lines=Structural+Engineer;Software+Developer;AI/ML+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1500&color=FF6B35&center=true&vCenter=true&width=560&height=45&lines=Full-Stack+AI+Product+Engineer;AI+Security+%26+Compliance+for+LLM+Agents;Structural+Engineering+to+Software+to+AI" alt="Typing SVG" />
 </div>
 
 # 👨‍💻 Felipe Cordero
+
+**Full-stack AI Product Engineer @ [Fireraven](https://fireraven.ai)** — enterprise LLM security & compliance: guardrails, policy, runtime controls, auditing · Structural engineer background · 14+ years · Python · FastAPI · Next.js · TypeScript · PostgreSQL
 
 ### 🚀 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-cordero-osorio)
@@ -21,7 +23,7 @@
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![AI/ML](https://img.shields.io/badge/AI_Security_%26_Compliance-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Structural Engineering](https://img.shields.io/badge/Structural_Engineering-FF6B35?style=for-the-badge&logo=autodesk&logoColor=white)
   ![Web Development](https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   
@@ -31,26 +33,26 @@
 
 <div align="center">
   
-  > *"Turning ideas into impactful solutions—one line of code at a time."*
+  > *"Bridging product vision with AI systems engineering—security, compliance, and shipped software for LLM agents."*
   
 </div>
 
-**Full Stack Developer** and **AI/ML practitioner** based in Montréal. I build scalable web apps, APIs, and LLM-powered tools—with a foundation in **structural engineering** 🏗️ and **machine learning** 🤖. I care about clean code, regulatory compliance, and shipping with global teams.
+I bridge **structural engineering**, **software**, and **AI security**. At **Fireraven** I work as a **full-stack AI product engineer** on guardrails, compliance, and secure deployment of LLM agents for enterprises: **product-scoped work** with PM, security, compliance, and customers—not a generic backend-only role. **6+ years** of cross-functional, Agile-informed delivery: **user stories**, **acceptance criteria**, backlog alignment, sprint goals, and turning regulatory and risk needs into **production features**. Background spans BIM and large-project delivery, construction-tech products, and R&D that cut engineering time by **75%** (Sirve) and design time by **40%** on critical paths (Tensacon).
 
 ### 🎯 Key Highlights
 
 <div align="center">
   
-  ![Full Stack](https://img.shields.io/badge/Full_Stack-Python_%7C_React-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Experience](https://img.shields.io/badge/Experience-12%2B_years-FF6B35?style=for-the-badge&logo=clock&logoColor=white)
+  ![Product Engineering](https://img.shields.io/badge/Product_Engineering-AI_%26_Agile-3776AB?style=for-the-badge&logo=producthunt&logoColor=white)
+  ![Experience](https://img.shields.io/badge/Experience-14%2B_years-FF6B35?style=for-the-badge&logo=clock&logoColor=white)
   ![Scholarship](https://img.shields.io/badge/Scholarship-Academic_Excellence_2025-FFD700?style=for-the-badge&logo=award&logoColor=black)
   
 </div>
 
-- 💻 **Full stack** — 12+ years Python, 3+ years React; scalable web apps, REST APIs, PostgreSQL, and GenAI/LLM in production
+- 🧭 **Product-engineering & Agile** — User stories, acceptance criteria, backlog refinement, release planning; partners with product, security, and customers from discovery to release
+- 💻 **Full-stack AI** — Python, FastAPI, **NestJS**, React/Next.js, TypeScript, PostgreSQL; LLM agents, RAG, and GenAI in production; observability and quality signals for backlog decisions
 - 🏆 **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025); AEC in AI & Machine Learning
-- 🤝 **Agile & global teams** — distributed collaboration, code reviews, TDD, and clean code (DRY, YAGNI, SOLID)
-- 🏗️ **Engineering roots** — 14+ years structural engineering and software; R&D and thesis on seismic performance of RC structures
+- 🏗️ **Engineering → software → AI** — 14+ years across structural engineering, BIM, construction-tech, and AI security/compliance platforms
 
 ## 🌐 Languages
 
@@ -60,7 +62,7 @@
 
 ## 🛠️ Tech Stack
 
-Technical expertise spanning software development, AI/ML, and engineering technologies.
+Technical expertise spanning **product-oriented delivery**, software development, AI/ML, and engineering technologies.
 
 ### 🌐 This site ([felipecordero.com](https://felipecordero.com))
 <div align="center">
@@ -143,7 +145,7 @@ Technical expertise spanning software development, AI/ML, and engineering techno
   
 </div>
 
-**AI/ML**: PyTorch, TensorFlow, Scikit-learn, OpenCV, Hugging Face Transformers, Keras, MindsDB, Cohere · **Vector stores**: Pinecone, ChromaDB
+**AI/ML**: PyTorch, TensorFlow, Scikit-learn, OpenCV, Hugging Face Transformers, Keras, MindsDB, Cohere, LangChain · **Vector stores**: Pinecone, ChromaDB
 
 ### 🗄️ Databases
 <div align="center">
@@ -189,63 +191,61 @@ Technical expertise spanning software development, AI/ML, and engineering techno
 **Engineering**: OpenSees, SAP2000, ETABS, SAFE, BIM, CAD, QGIS, MATLAB
 
 ### Professional Strengths
-- 🔥 **Current focus (Fireraven)** — Full-stack (Python/FastAPI, React/Next.js) for LLM-based security and compliance; backend and frontend in balance; GenAI and AI compliance in production
-- 🔍 **Data & systems** — Data analysis, visualization, and PostgreSQL/data pipelines for high-performance, compliance-ready applications
-- 🕒 **Automation & optimization** — Cut engineering and workflow time (e.g. 75%) through scripting, tooling, and clean architecture
-- 🏢 **Delivery & leadership** — Project and technical leadership; delivered complex solutions on time (e.g. 20,000 m² projects)
-- 💬 **Communication** — Multilingual (EN/ES/FR); effective in distributed, cross-functional and international teams
-- 🤝 **Collaboration** — Agile Scrum, code reviews, sprint planning; R&D and cross-functional team building
-- 🔬 **R&D & innovation** — From structural engineering R&D to GenAI/LLM in production; bridging domains
-- 🌍 **International** — Chile → Canada; adaptable across cultures and work environments
+- 🎯 **Fireraven (current)** — **Full-stack AI product engineer**: LLM security, risk, and compliance; guardrails, policy-driven behavior, APIs and UIs; collaborates with product, security, compliance, and customers; **user stories**, **acceptance criteria**, and end-to-end feature ownership
+- 📋 **Product & delivery** — Backlog prioritization, sprint planning, scope trade-offs, documentation for customers and internal teams (behavioral specs, release notes)
+- 🔍 **Data & systems** — PostgreSQL, data pipelines, and observability (defects, latency, adoption) to inform roadmap and releases
+- 🕒 **Automation & optimization** — Scripting and tooling that cut engineering time (e.g. 75% initial sizing, 40% design time on critical paths)
+- 🏢 **Delivery & leadership** — BIM and prefabrication on major projects (e.g. CODELCO, Pan American Games); high-rise portfolios (~20,000 m²)
+- 💬 **Communication** — Multilingual (EN/ES/FR); distributed, cross-functional teams
+- 🤝 **Collaboration** — Agile Scrum, code reviews, TDD; R&D and cross-functional initiatives
+- 🔬 **Domain depth** — AEC, structural engineering, and AI agent security/compliance in production
 
 ## 🌟 Professional Experience
 
 <div align="center">
   
-  ![Current Role](https://img.shields.io/badge/Current_Role-AI_%26_Full_Stack_Developer-00A0E4?style=for-the-badge&logo=robot&logoColor=white)
+  ![Current Role](https://img.shields.io/badge/Current_Role-Full--Stack_AI_Product_Engineer-00A0E4?style=for-the-badge&logo=robot&logoColor=white)
   ![Experience](https://img.shields.io/badge/Experience-14%2B_years-FF6B35?style=for-the-badge&logo=briefcase&logoColor=white)
   
 </div>
 
 ### 🔥 Current Position
-**AI and Full Stack Developer** at [Fireraven](https://fireraven.ai) — Montréal, Canada (May 2025 – Present)
-- 🔧 Design and develop scalable full-stack solutions (Python/FastAPI, React/Next.js) for LLM-based security and compliance platforms
-- 💾 Implement and optimize PostgreSQL schemas, queries, and data pipelines for regulatory compliance
-- 🏗️ Apply OOP, design patterns (DRY, YAGNI, SOLID), and refactor legacy code across multiple repositories
-- 🤝 Collaborate with global distributed teams in Agile Scrum; leverage GenAI and LLM-based features with AI compliance
-- 🐧 Use Linux/Unix, Docker, and GCP for deployment automation and cloud infrastructure
+**Full-Stack AI Product Engineer** at [Fireraven](https://fireraven.ai) — Montréal, Canada (May 2025 – Present)  
+*Security and compliance tooling for LLM-based agents: guardrails, runtime enforcement, red-teaming, auditing, policy-driven behavior.*
+
+- Own features end-to-end with product and security/compliance stakeholders: clarify problems, draft and refine **user stories** and **acceptance criteria**, sequence work to roadmap and sprint goals, align engineering on scope and definition of done
+- Design and implement guardrails, policies, and runtime controls for LLM agents—APIs and customer-facing or internal tooling (Python/FastAPI, **NestJS**, React/Next.js, TypeScript, PostgreSQL)
+- Translate regulatory and risk requirements into shippable product behavior, audit trails, and operational workflows; facilitate delivery when blockers appear (re-scoping, phased releases)
+- Contribute to documentation (behavioral specs, release notes) for traceable, supportable launches; track quality and operational signals to inform backlog ordering
+- Apply GenAI/LLM patterns in production; participate in Agile ceremonies with globally distributed teams (Linux/Unix, Docker, GCP)
 
 ### 💼 Previous Experience
 
-**Senior Software Developer** at [ObraLink](https://obralink.com/en) -- Remote (Aug. 2023 – May 2025)  
-- 🛠️ Developed autonomous solutions for real-time structural analysis  
-- 📈 Implemented machine learning models for concrete demand estimation  
-- 📝 Authored innovation reports with investment potentials exceeding $500K USD  
-- 🔧 **Real-time Slab Deflection Analysis**: Built automated BIM-to-structural analysis tool
+**Senior Software Developer** (product-facing delivery) at [ObraLink](https://obralink.com/) — Remote (Aug. 2023 – May 2025)  
+- Delivered features for a **construction project management** platform: translated field and operations needs into **user stories** and **acceptance criteria**, negotiated scope, shipped full-stack increments (FastAPI, React, PostgreSQL)
+- Built dashboards, real-time visualization, and 3D-linked workflows for non-developer users; integrated ML-driven analytics via stable APIs and data contracts
+- Innovation documentation supporting investment conversations exceeding **$500K USD**; engineering quality through TDD, integration tests, and code review  
+- **Real-time slab deflection analysis**: automated BIM-to-structural analysis tooling
 
-**Technical Assistant Manager** at [Tensacon](https://www.tensacon.cl/) -- Santiago, Chile (Mar. 2022 – July 2023)
-- 🏢 Led BIM team to enhance quality and productivity
-- 🏗️ Designed solutions for major prefabricated projects (CODELCO facilities, Pan American Games venues)
-- 📊 Managed multiple Fast Track projects on time
-- ⚡ Developed automated workflows reducing design time by 40%
+**Technical Team Lead** (BIM / delivery) at [Tensacon](https://www.tensacon.cl/) — Santiago, Chile (Mar. 2022 – July 2023)  
+- Led BIM coordination for fast-track **AEC** projects (e.g. CODELCO facilities, Pan American Games venues); work packages, dependencies, and cross-discipline handoffs
+- Workflow automation reducing design time by **~40%** on critical paths; fast-track delivery on schedule and budget
 
-**Structural Engineering Team Lead** and **R&D Coordinator** at [Sirve Engineering](https://www.linkedin.com/company/sirve-s-a-/) -- Santiago, Chile (Mar. 2019 – Mar. 2022)
-- 🔬 Directed R&D for software tools, reducing initial engineering time by 75%
-- 🏢 Managed multiple high-rise residential and commercial complexes (~20,000 m² each)
-- 📈 Led structural and seismic engineering research projects
-- 🏗️ Implemented parametric modeling for complex geometries
+**Structural Engineering Team Lead** and **R&D Coordinator** at [Sirve Engineering](https://www.linkedin.com/company/sirve-s-a-/) — Santiago, Chile (Mar. 2019 – Mar. 2022)  
+- Prioritized R&D and internal tooling roadmap: requirements from structural engineers, measurable outcomes, **Python-based** tools that cut initial structural sizing time by **75%**
+- High-rise residential and commercial complexes (~**20,000 m²** each); parametric modeling for complex geometry; seismic and structural research leadership
+
+**Structural Engineer**, various firms — Santiago, Chile (2010 – 2018)  
+- Seismic-resistant design, custom calculation tools, mentoring junior engineers
 
 ## 📚 Education
 
-- 🎓 **Artificial Intelligence and Machine Learning**, Collège LaSalle Montréal  
+- 🎓 **Artificial Intelligence and Machine Learning** (AEC), Collège LaSalle Montréal (Sept 2023 – Present)  
   - 🏆 **Academic Excellence Scholarship** (Sponsored by Air Canada, 2025)
-  - Focus on AI/ML and Data Engineering
-  - Currently based in Montréal, deepening skills in Python, PyTorch, and predictive modeling
-- 🎓 **Structural Civil Engineering**, University of Chile  
-  - 🏅 **Outstanding Student Award**, School of Engineering and Sciences
-  - Specialization in Structural Engineering
-  - 🔬 **Thesis**: "Seismic Performance of Reinforced Concrete Wall Structures"
-  - Advanced computational modeling using OpenSees software
+  - Focus on AI/ML and data engineering; Python, PyTorch, predictive modeling
+- 🎓 **Bachelor's Degree in Civil Engineering**, University of Chile (2004 – 2011)  
+  - 🏅 **Outstanding Student Award**, School of Engineering and Sciences (2009)
+  - Structural engineering specialization; thesis on **seismic performance of reinforced concrete wall structures**; OpenSees and advanced computational modeling
 
 ## 🚀 Notable Projects & Contributions
 
@@ -353,7 +353,7 @@ Technical expertise spanning software development, AI/ML, and engineering techno
 ---
 
 <div align="center">
-  *"Turning ideas into impactful solutions—one line of code at a time!"* 🚀
+  *"Bridging product vision with AI systems engineering—secure, compliant LLM agents in production."* 🚀
 </div>
 
 <br />
